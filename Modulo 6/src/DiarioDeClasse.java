@@ -19,12 +19,12 @@ public class DiarioDeClasse {
         BeatrizPresencas.put("04/06/2022", true);
         BeatrizPresencas.put("05/06/2022", false);
 
-        Map<String, Boolean> CleversonPresencas = new TreeMap<>();
-        CleversonPresencas.put("01/06/2022", false);
-        CleversonPresencas.put("02/06/2022", true);
-        CleversonPresencas.put("03/06/2022", true);
-        CleversonPresencas.put("04/06/2022", true);
-        CleversonPresencas.put("05/06/2022", false);
+        Map<String, Boolean> CleitonPresencas = new TreeMap<>();
+        CleitonPresencas.put("01/06/2022", false);
+        CleitonPresencas.put("02/06/2022", true);
+        CleitonPresencas.put("03/06/2022", true);
+        CleitonPresencas.put("04/06/2022", true);
+        CleitonPresencas.put("05/06/2022", false);
 
         Map<String, Boolean> FabianaPresencas = new TreeMap<>();
         FabianaPresencas.put("01/06/2022", true);
@@ -42,7 +42,7 @@ public class DiarioDeClasse {
 
         presencas.put("Alisson Mendes", AlissonPresencas);
         presencas.put("Beatriz Oliveira", BeatrizPresencas);
-        presencas.put("Cleverson Reinert", CleversonPresencas);
+        presencas.put("Cleiton Silva", CleitonPresencas);
         presencas.put("Fabiana Braga", FabianaPresencas);
         presencas.put("Gustavo Dagostin", GustavoPresencas);
 
