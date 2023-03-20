@@ -3,7 +3,8 @@
 ✔️ Cursos Concluidos / Completed Courses 
 
 Sintaxe Java
-Variáveis, operadores, atribuições
+Variáveis, operadores, atribuições \n
+
 Sistema de controle de versão - Git
 Classes e objetos
 Contrutor, getters e setters
