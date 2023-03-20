@@ -2,7 +2,7 @@
 
 ✔️ Cursos Concluidos / Completed Courses 
 
-Sintaxe Java /n
+Sintaxe Java
 Variáveis, operadores, atribuições
 Sistema de controle de versão - Git
 Classes e objetos
