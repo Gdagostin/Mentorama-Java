@@ -11,7 +11,7 @@ Sistema de controle de versão - Git
 
 Classes e objetos
 
-Contrutor, getters e setters
+Construtor, getters e setters
 
 Encapsulamento, vetores e coleções
 
