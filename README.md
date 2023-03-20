@@ -1,7 +1,7 @@
 📚 Módulos Mentorama
 
-✔️ Cursos Concluidos / Completed Courses
-Sintaxe Java
+✔️ Cursos Concluidos / Completed Courses \r\n
+Sintaxe Java \r\n
 Variáveis, operadores, atribuições
 Sistema de controle de versão - Git
 Classes e objetos
