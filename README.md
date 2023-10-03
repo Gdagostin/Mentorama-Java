@@ -1,7 +1,7 @@
 📚 Módulos Mentorama
 
 
-✔️ Cursos Concluidos / Completed Courses 
+✔️ Cursos Concluídos / Completed Courses 
 
 Sintaxe Java
 
